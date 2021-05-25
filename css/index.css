@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+
+
+
+* {
+  
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0;
+  }
+  
+  
+  
+  body {
+    font-weight: bolder;
+    background-image: url("https://wallpaperaccess.com/full/1668918.jpg");
+    
+    font-family: "Poppins";
+    background-color: #4c5758f6;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    line-height: 1.6;
+    
+  }
+
+.container{
+  text-align: center;
+
+
+}
+    
+
+table,
+
+td {
+ 
+    border: 2px solid #333;
+    
+}
+
+thead,
+tfoot {
+   
+  
+    background-color: #333;
+    color: #fff;
+}
+
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  height: 90h;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+a{
+  color: rgb(15, 67, 80);
+}
+
+
+table.center{
+  margin-top: auto;
+  text-align: center;
+  margin-bottom: 3cm;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home{
+  margin-bottom: auto;
+  margin-top: 4cm;
+}
