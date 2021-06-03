@@ -15,12 +15,11 @@
   
   body {
     font-weight: bolder;
-    background-image: url("https://wallpaperaccess.com/full/1668918.jpg");
     font-size: medium;
     font-family: "Poppins";
-    background-color: #4c5758f6;
+    background-color: #0b0c0cf6;
     font-size: 18px;
-    color: rgb(0, 0, 0);
+    color: rgb(184, 169, 86);
     line-height: 1.6;
     
   }
@@ -29,6 +28,10 @@
   text-align: center;
 
 
+}
+
+h6{
+  margin-top: 4cm;
 }
     
 
@@ -64,7 +67,7 @@ tfoot {
 
 
 a{
-  color: rgb(15, 67, 80);
+  color: rgb(121, 212, 133);
 }
 
 
@@ -79,4 +82,8 @@ table.center{
 .home{
   margin-bottom: auto;
   margin-top: 4cm;
+}
+
+table{
+  color: bisque;
 }
